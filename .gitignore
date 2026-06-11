@@ -1,0 +1,17 @@
+# Model artifacts
+models/
+*.pkl
+*.pt
+*.pth
+*.npy
+*.npz
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+~$*
