@@ -1,0 +1,9 @@
+PERMEABILITY CLEAN DATASET
+=============================================
+Endpoint: Caco-2 A→B + undirected, ×10⁻⁶ cm/s, log10
+Compounds:  2658
+  train:    2127
+  test:     531  (20.0%)
+Unique scaffolds: 1497
+log10_papp  mean=0.637  std=0.801  range=[-2.52, 2.60]
+Papp (×10⁻⁶ cm/s) median=6.52
